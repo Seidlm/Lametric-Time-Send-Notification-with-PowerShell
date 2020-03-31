@@ -16,7 +16,7 @@
 # michael@techguy.at 
 ########################################################
 
-
+# PowerShell Self Service Web Portal at www.au2mator.com/PowerShell
 
 #Api Settings
 $LametricIP="192.168.1.199"
